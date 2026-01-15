@@ -1,3 +1,7 @@
+// imports lowk hella broken but i fix later; code works fine
+// compile with g++ -O3 -march=native -fopenmp     vicsek.cpp cnpy/cnpy.cpp     -Icnpy -lz     -o runtime
+// run with ./runtime
+
 #include <bits/stdc++.h>
 #include <chrono>
 #include <random>
@@ -13,7 +17,6 @@
 #include "cnpy.h"
 
 using namespace std;
-//imports lowk broken but i fix later; code works fine
 
 int main() {
     const string LOGDIR = "temp_logs";
@@ -33,8 +36,8 @@ int main() {
     double v0 = r0 / deltat * factor;
     double eta = 0.5;
 
-    const long long NSTEPS = 1'000'000;
-    const int CHECKPOINT_EVERY = 1000;
+    const long long NSTEPS = 100'000'000;
+    const int CHECKPOINT_EVERY = 10000;
 
 
     mt19937_64 seed_rng(

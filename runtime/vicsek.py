@@ -7,14 +7,14 @@ from matplotlib.animation import FuncAnimation
 import os
 
 
-ANIMATE = False        
-REANIMATE = False      
+ANIMATE = True       
+REANIMATE = True     
 
-LOGDIR = "logfiles"
+LOGDIR = "py_temp_logs"
 os.makedirs(LOGDIR, exist_ok=True)
 
 ORDER_FILE = os.path.join(LOGDIR, "order.txt")
-FINAL_STATE_FILE = os.path.join(LOGDIR, "final_state.npz")
+FINAL_STATE_FILE = os.path.join(LOGDIR, "checkpoint_1280000.npz")
 CHECKPOINT_FMT = os.path.join(LOGDIR, "checkpoint_{:07d}.npz")
 
 L = 150
@@ -49,19 +49,19 @@ with open(ORDER_FILE, "w") as f:
 
 if REANIMATE:
     data = np.load(FINAL_STATE_FILE, allow_pickle=True)
-
     pos = data["pos"]
     orient = data["orient"]
-    steps = int(data["steps"])
+    steps = int(data["steps"].item())
 
+    print(data["params"])
     params = data["params"].item()
-    L = params["L"]
-    rho = params["rho"]
-    N = params["N"]
-    r0 = params["r0"]
-    deltat = params["deltat"]
-    v0 = params["v0"]
-    eta = params["eta"]
+    L = int(params["L"])
+    rho = float(params["rho"])
+    N = int(params["N"])
+    r0 = float(params["r0"])
+    deltat = float(params["deltat"])
+    v0 = float(params["v0"])
+    eta = float(params["eta"])
 
     print(f"Resumed simulation from step {steps}")
 
