@@ -7,8 +7,8 @@ from matplotlib.animation import FuncAnimation
 import os
 
 
-ANIMATE = True       
-REANIMATE = True     
+ANIMATE = False       
+REANIMATE = False     
 
 LOGDIR = "py_temp_logs"
 os.makedirs(LOGDIR, exist_ok=True)
@@ -17,15 +17,15 @@ ORDER_FILE = os.path.join(LOGDIR, "order.txt")
 FINAL_STATE_FILE = os.path.join(LOGDIR, "checkpoint_1280000.npz")
 CHECKPOINT_FMT = os.path.join(LOGDIR, "checkpoint_{:07d}.npz")
 
-L = 150
-rho = 0.5
+L = 50
+rho = 0.1
 N = int(rho * L**2)
 
 r0 = 1.0
 deltat = 1.0
-factor = 1
+factor = 0.5
 v0 = r0 / deltat * factor
-eta = 0
+eta = 0.25
 
 NSTEPS = 10**6
 CHECKPOINT_EVERY = 1000
