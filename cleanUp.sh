@@ -38,7 +38,28 @@ root="/mnt/c/Users/grace_0ddpimo/vicsek/logs/"
 #   rmdir -p "$root#00${i}/4/temp_logs_${i}"
 # done
 
-for (( i=000; i<044; i++)); do
+# for (( i=000; i<044; i++)); do
+#   find "$root#$i" -type d | wc -l
+#   final=5
+#   for (( j=1; j<6; j++)); do
+#     if [ -d "$root#$i/$j" ]; then
+#       if cmp -s file1 file2 && cmp -s file2 file3;
+#         echo 
+#     else
+#       final=$j
+#       break
+#     fi
+#   if []
+#   done
+# done
+
+# for (( i=28; i<44; i++)); do
+#   mkdir "$root#0${i}/1"
+
+#   mv -v "$root#0${i}"/* "$root#0${i}/1"
+# done
+
+for (( i=030; i<199; i++)); do
   find "$root#$i" -type d | wc -l
   final=5
   for (( j=1; j<6; j++)); do

@@ -15,9 +15,9 @@ def generateLHS(n_samples):
 
     return sample_scaled
 
-numSamples = 200
+numSamples = 400
 finalSamples = generateLHS(numSamples)
 
 data = np.array(finalSamples)
 
-np.savetxt('LHSpoints.txt', data, fmt='%.8f', delimiter=' ')
+np.savetxt('LHSpointsNEW.txt', data, fmt='%.8f', delimiter=' ')

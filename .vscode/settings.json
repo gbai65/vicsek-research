@@ -1,4 +1,5 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
-    "cmake.sourceDirectory": "C:/Users/grace_0ddpimo/vicsek/runtime/cnpy"
+    "cmake.sourceDirectory": "C:/Users/grace_0ddpimo/vicsek/runtime/cnpy",
+    "chat.disableAIFeatures": true
 }
