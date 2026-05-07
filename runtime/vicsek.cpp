@@ -299,8 +299,6 @@ int main(int argc, char* argv[]) {
             }
 
             char fname[256];
-            sprintf(fname, (directoryName + "/checkpoint_%07lld.npz").c_str(), step);
-            save_state(fname, P, pos, orient, step);
         }
     }
     std::string newNewDirName = directoryName+"/final_state.npz";
