@@ -1,0 +1,24 @@
+KMeans Trial 1
+Silhouette: 0.819 (higher better, max 1)
+Davies-Bouldin: 0.426 (lower better, min 0)
+Calinski-Harabasz: 767.8 (higher better)
+
+KMeans Trial 2
+Silhouette: 0.810 (higher better, max 1)
+Davies-Bouldin: 0.462 (lower better, min 0)
+Calinski-Harabasz: 733.1 (higher better)
+
+KMeans Trial 3
+Silhouette: 0.813 (higher better, max 1)
+Davies-Bouldin: 0.428 (lower better, min 0)
+Calinski-Harabasz: 712.1 (higher better)
+
+KMeans Trial 4
+Silhouette: 0.805 (higher better, max 1)
+Davies-Bouldin: 0.497 (lower better, min 0)
+Calinski-Harabasz: 525.5 (higher better)
+
+KMeans Trial 5
+Silhouette: 0.801 (higher better, max 1)
+Davies-Bouldin: 0.430 (lower better, min 0)
+Calinski-Harabasz: 559.1 (higher better)

@@ -1,0 +1,1544 @@
+
+#0:
+   ##0 - order: 0.011, binder: 0.361
+   ##1 - order: 0.012, binder: 0.349
+   ##2 - order: 0.013, binder: 0.383
+   ##3 - order: 0.011, binder: 0.316
+   ##4 - order: 0.01, binder: 0.357
+   Final - Mean Order: 0.011, Mean Binder: 0.353
+
+#1:
+   ##0 - order: 1.0, binder: 0.667
+   ##1 - order: 1.0, binder: 0.667
+   ##2 - order: 1.0, binder: 0.667
+   ##3 - order: 0.999, binder: 0.667
+   ##4 - order: 1.0, binder: 0.667
+   Final - Mean Order: 1.0, Mean Binder: 0.667
+
+#2:
+   ##0 - order: 0.01, binder: 0.385
+   ##1 - order: 0.01, binder: 0.276
+   ##2 - order: 0.01, binder: 0.35
+   ##3 - order: 0.009, binder: 0.31
+   ##4 - order: 0.009, binder: 0.347
+   Final - Mean Order: 0.009, Mean Binder: 0.334
+
+#3:
+   ##0 - order: 0.023, binder: 0.34
+   ##1 - order: 0.023, binder: 0.277
+   ##2 - order: 0.024, binder: 0.304
+   ##3 - order: 0.023, binder: 0.329
+   ##4 - order: 0.023, binder: 0.352
+   Final - Mean Order: 0.023, Mean Binder: 0.32
+
+#4:
+   ##0 - order: 0.009, binder: 0.32
+   ##1 - order: 0.009, binder: 0.28
+   ##2 - order: 0.009, binder: 0.364
+   ##3 - order: 0.009, binder: 0.372
+   ##4 - order: 0.009, binder: 0.254
+   Final - Mean Order: 0.009, Mean Binder: 0.318
+
+#5:
+   ##0 - order: 0.015, binder: 0.267
+   ##1 - order: 0.015, binder: 0.297
+   ##2 - order: 0.016, binder: 0.383
+   ##3 - order: 0.016, binder: 0.329
+   ##4 - order: 0.014, binder: 0.355
+   Final - Mean Order: 0.015, Mean Binder: 0.326
+
+#6:
+   ##0 - order: 0.469, binder: 0.598
+   ##1 - order: 0.43, binder: 0.583
+   ##2 - order: 0.539, binder: 0.633
+   ##3 - order: 0.452, binder: 0.594
+   ##4 - order: 0.538, binder: 0.621
+   Final - Mean Order: 0.486, Mean Binder: 0.606
+
+#7:
+   ##0 - order: 0.009, binder: 0.349
+   ##1 - order: 0.01, binder: 0.344
+   ##2 - order: 0.01, binder: 0.368
+   ##3 - order: 0.01, binder: 0.333
+   ##4 - order: 0.01, binder: 0.366
+   Final - Mean Order: 0.01, Mean Binder: 0.352
+
+#8:
+   ##0 - order: 0.017, binder: 0.319
+   ##1 - order: 0.017, binder: 0.364
+   ##2 - order: 0.016, binder: 0.295
+   ##3 - order: 0.016, binder: 0.368
+   ##4 - order: 0.014, binder: 0.403
+   Final - Mean Order: 0.016, Mean Binder: 0.35
+
+#9:
+   ##0 - order: 0.383, binder: 0.62
+   ##1 - order: 0.42, binder: 0.658
+   ##2 - order: 0.42, binder: 0.659
+   ##3 - order: 0.402, binder: 0.644
+   ##4 - order: 0.415, binder: 0.654
+   Final - Mean Order: 0.408, Mean Binder: 0.647
+
+#10:
+   ##0 - order: 0.998, binder: 0.667
+   ##1 - order: 0.998, binder: 0.667
+   ##2 - order: 0.997, binder: 0.667
+   ##3 - order: 0.997, binder: 0.667
+   ##4 - order: 0.997, binder: 0.667
+   Final - Mean Order: 0.997, Mean Binder: 0.667
+
+#11:
+   ##0 - order: 0.035, binder: 0.268
+   ##1 - order: 0.036, binder: 0.372
+   ##2 - order: 0.034, binder: 0.207
+   ##3 - order: 0.034, binder: 0.324
+   ##4 - order: 0.035, binder: 0.381
+   Final - Mean Order: 0.035, Mean Binder: 0.311
+
+#12:
+   ##0 - order: 0.025, binder: 0.346
+   ##1 - order: 0.023, binder: 0.387
+   ##2 - order: 0.024, binder: 0.297
+   ##3 - order: 0.023, binder: 0.363
+   ##4 - order: 0.026, binder: 0.376
+   Final - Mean Order: 0.024, Mean Binder: 0.354
+
+#13:
+   ##0 - order: 0.009, binder: 0.309
+   ##1 - order: 0.009, binder: 0.299
+   ##2 - order: 0.009, binder: 0.294
+   ##3 - order: 0.009, binder: 0.232
+   ##4 - order: 0.01, binder: 0.327
+   Final - Mean Order: 0.009, Mean Binder: 0.292
+
+#14:
+   ##0 - order: 0.009, binder: 0.325
+   ##1 - order: 0.009, binder: 0.415
+   ##2 - order: 0.009, binder: 0.387
+   ##3 - order: 0.009, binder: 0.303
+   ##4 - order: 0.009, binder: 0.378
+   Final - Mean Order: 0.009, Mean Binder: 0.361
+
+#15:
+   ##0 - order: 0.008, binder: 0.312
+   ##1 - order: 0.008, binder: 0.253
+   ##2 - order: 0.008, binder: 0.201
+   ##3 - order: 0.008, binder: 0.309
+   ##4 - order: 0.008, binder: 0.322
+   Final - Mean Order: 0.008, Mean Binder: 0.279
+
+#16:
+   ##0 - order: 0.953, binder: 0.667
+   ##1 - order: 0.953, binder: 0.667
+   ##2 - order: 0.953, binder: 0.667
+   ##3 - order: 0.953, binder: 0.667
+   ##4 - order: 0.953, binder: 0.667
+   Final - Mean Order: 0.953, Mean Binder: 0.667
+
+#17:
+   ##0 - order: 0.021, binder: 0.28
+   ##1 - order: 0.021, binder: 0.287
+   ##2 - order: 0.021, binder: 0.429
+   ##3 - order: 0.022, binder: 0.286
+   ##4 - order: 0.021, binder: 0.367
+   Final - Mean Order: 0.021, Mean Binder: 0.33
+
+#18:
+   ##0 - order: 0.094, binder: 0.397
+   ##1 - order: 0.1, binder: 0.336
+   ##2 - order: 0.101, binder: 0.361
+   ##3 - order: 0.102, binder: 0.412
+   ##4 - order: 0.1, binder: 0.392
+   Final - Mean Order: 0.1, Mean Binder: 0.38
+
+#19:
+   ##0 - order: 0.938, binder: 0.667
+   ##1 - order: 0.938, binder: 0.667
+   ##2 - order: 0.937, binder: 0.667
+   ##3 - order: 0.937, binder: 0.667
+   ##4 - order: 0.938, binder: 0.667
+   Final - Mean Order: 0.938, Mean Binder: 0.667
+
+#20:
+   ##0 - order: 0.861, binder: 0.666
+   ##1 - order: 0.863, binder: 0.666
+   ##2 - order: 0.861, binder: 0.666
+   ##3 - order: 0.861, binder: 0.666
+   ##4 - order: 0.861, binder: 0.666
+   Final - Mean Order: 0.861, Mean Binder: 0.666
+
+#21:
+   ##0 - order: 0.008, binder: 0.356
+   ##1 - order: 0.007, binder: 0.302
+   ##2 - order: 0.007, binder: 0.351
+   ##3 - order: 0.007, binder: 0.299
+   ##4 - order: 0.007, binder: 0.417
+   Final - Mean Order: 0.007, Mean Binder: 0.345
+
+#22:
+   ##0 - order: 0.005, binder: 0.379
+   ##1 - order: 0.005, binder: 0.309
+   ##2 - order: 0.005, binder: 0.359
+   ##3 - order: 0.005, binder: 0.405
+   ##4 - order: 0.005, binder: 0.313
+   Final - Mean Order: 0.005, Mean Binder: 0.353
+
+#23:
+   ##0 - order: 0.025, binder: 0.351
+   ##1 - order: 0.025, binder: 0.336
+   ##2 - order: 0.026, binder: 0.316
+   ##3 - order: 0.025, binder: 0.34
+   ##4 - order: 0.026, binder: 0.215
+   Final - Mean Order: 0.025, Mean Binder: 0.312
+
+#24:
+   ##0 - order: 0.011, binder: 0.361
+   ##1 - order: 0.011, binder: 0.268
+   ##2 - order: 0.011, binder: 0.301
+   ##3 - order: 0.011, binder: 0.355
+   ##4 - order: 0.011, binder: 0.311
+   Final - Mean Order: 0.011, Mean Binder: 0.319
+
+#31:
+   ##0 - order: 0.022, binder: 0.302
+   ##1 - order: 0.021, binder: 0.398
+   ##2 - order: 0.022, binder: 0.345
+   ##3 - order: 0.021, binder: 0.336
+   ##4 - order: 0.022, binder: 0.3
+   Final - Mean Order: 0.022, Mean Binder: 0.336
+
+#32:
+   ##0 - order: 0.982, binder: 0.667
+   ##1 - order: 0.982, binder: 0.667
+   ##2 - order: 0.982, binder: 0.667
+   ##3 - order: 0.982, binder: 0.667
+   ##4 - order: 0.982, binder: 0.667
+   Final - Mean Order: 0.982, Mean Binder: 0.667
+
+#33:
+   ##0 - order: 0.034, binder: 0.246
+   ##1 - order: 0.035, binder: 0.371
+   ##2 - order: 0.036, binder: 0.35
+   ##3 - order: 0.035, binder: 0.362
+   ##4 - order: 0.036, binder: 0.342
+   Final - Mean Order: 0.035, Mean Binder: 0.334
+
+#34:
+   ##0 - order: 0.387, binder: 0.553
+   ##1 - order: 0.371, binder: 0.523
+   ##2 - order: 0.364, binder: 0.547
+   ##3 - order: 0.362, binder: 0.563
+   ##4 - order: 0.362, binder: 0.529
+   Final - Mean Order: 0.369, Mean Binder: 0.543
+
+#35:
+   ##0 - order: 0.018, binder: 0.404
+   ##1 - order: 0.016, binder: 0.269
+   ##2 - order: 0.018, binder: 0.375
+   ##3 - order: 0.018, binder: 0.367
+   ##4 - order: 0.017, binder: 0.326
+   Final - Mean Order: 0.017, Mean Binder: 0.348
+
+#36:
+   ##0 - order: 0.978, binder: 0.667
+   ##1 - order: 0.983, binder: 0.667
+   ##2 - order: 0.974, binder: 0.667
+   ##3 - order: 0.974, binder: 0.667
+   ##4 - order: 0.973, binder: 0.667
+   Final - Mean Order: 0.977, Mean Binder: 0.667
+
+#37:
+   ##0 - order: 0.694, binder: 0.66
+   ##1 - order: 0.679, binder: 0.657
+   ##2 - order: 0.69, binder: 0.659
+   ##3 - order: 0.68, binder: 0.657
+   ##4 - order: 0.675, binder: 0.652
+   Final - Mean Order: 0.683, Mean Binder: 0.657
+
+#38:
+   ##0 - order: 0.896, binder: 0.666
+   ##1 - order: 0.897, binder: 0.666
+   ##2 - order: 0.9, binder: 0.666
+   ##3 - order: 0.898, binder: 0.666
+   ##4 - order: 0.9, binder: 0.666
+   Final - Mean Order: 0.898, Mean Binder: 0.666
+
+#39:
+   ##0 - order: 0.023, binder: 0.345
+   ##1 - order: 0.023, binder: 0.324
+   ##2 - order: 0.023, binder: 0.368
+   ##3 - order: 0.023, binder: 0.394
+   ##4 - order: 0.021, binder: 0.347
+   Final - Mean Order: 0.023, Mean Binder: 0.356
+
+#40:
+   ##0 - order: 0.02, binder: 0.33
+   ##1 - order: 0.02, binder: 0.33
+   ##2 - order: 0.02, binder: 0.327
+   ##3 - order: 0.02, binder: 0.363
+   ##4 - order: 0.02, binder: 0.323
+   Final - Mean Order: 0.02, Mean Binder: 0.334
+
+#41:
+   ##0 - order: 0.007, binder: 0.321
+   ##1 - order: 0.007, binder: 0.286
+   ##2 - order: 0.008, binder: 0.328
+   ##3 - order: 0.007, binder: 0.326
+   ##4 - order: 0.007, binder: 0.392
+   Final - Mean Order: 0.007, Mean Binder: 0.33
+
+#42:
+   ##0 - order: 0.01, binder: 0.378
+   ##1 - order: 0.01, binder: 0.38
+   ##2 - order: 0.01, binder: 0.395
+   ##3 - order: 0.01, binder: 0.347
+   ##4 - order: 0.01, binder: 0.286
+   Final - Mean Order: 0.01, Mean Binder: 0.357
+
+#43:
+   ##0 - order: 0.024, binder: 0.331
+   ##1 - order: 0.023, binder: 0.351
+   ##2 - order: 0.023, binder: 0.308
+   ##3 - order: 0.024, binder: 0.334
+   ##4 - order: 0.024, binder: 0.348
+   Final - Mean Order: 0.024, Mean Binder: 0.334
+
+#44:
+   ##0 - order: 0.025, binder: 0.347
+   ##1 - order: 0.025, binder: 0.36
+   ##2 - order: 0.026, binder: 0.383
+   ##3 - order: 0.023, binder: 0.384
+   ##4 - order: 0.024, binder: 0.199
+   Final - Mean Order: 0.024, Mean Binder: 0.335
+
+#45:
+   ##0 - order: 0.808, binder: 0.666
+   ##1 - order: 0.807, binder: 0.666
+   ##2 - order: 0.807, binder: 0.666
+   ##3 - order: 0.809, binder: 0.666
+   ##4 - order: 0.803, binder: 0.666
+   Final - Mean Order: 0.807, Mean Binder: 0.666
+
+#46:
+   ##0 - order: 0.011, binder: 0.299
+   ##1 - order: 0.012, binder: 0.319
+   ##2 - order: 0.011, binder: 0.284
+   ##3 - order: 0.011, binder: 0.265
+   ##4 - order: 0.012, binder: 0.331
+   Final - Mean Order: 0.011, Mean Binder: 0.3
+
+#47:
+   ##0 - order: 0.02, binder: 0.429
+   ##1 - order: 0.018, binder: 0.38
+   ##2 - order: 0.019, binder: 0.344
+   ##3 - order: 0.018, binder: 0.343
+   ##4 - order: 0.019, binder: 0.269
+   Final - Mean Order: 0.019, Mean Binder: 0.353
+
+#48:
+   ##0 - order: 0.034, binder: 0.328
+   ##1 - order: 0.031, binder: 0.222
+   ##2 - order: 0.034, binder: 0.39
+   ##3 - order: 0.032, binder: 0.332
+   ##4 - order: 0.034, binder: 0.426
+   Final - Mean Order: 0.033, Mean Binder: 0.34
+
+#49:
+   ##0 - order: 0.035, binder: 0.292
+   ##1 - order: 0.037, binder: 0.345
+   ##2 - order: 0.035, binder: 0.399
+   ##3 - order: 0.037, binder: 0.337
+   ##4 - order: 0.037, binder: 0.278
+   Final - Mean Order: 0.036, Mean Binder: 0.33
+
+#50:
+   ##0 - order: 0.856, binder: 0.667
+   ##1 - order: 0.855, binder: 0.667
+   ##2 - order: 0.855, binder: 0.667
+   ##3 - order: 0.856, binder: 0.666
+   ##4 - order: 0.856, binder: 0.667
+   Final - Mean Order: 0.856, Mean Binder: 0.667
+
+#51:
+   ##0 - order: 0.795, binder: 0.666
+   ##1 - order: 0.793, binder: 0.666
+   ##2 - order: 0.797, binder: 0.666
+   ##3 - order: 0.795, binder: 0.666
+   ##4 - order: 0.793, binder: 0.666
+   Final - Mean Order: 0.795, Mean Binder: 0.666
+
+#52:
+   ##0 - order: 0.011, binder: 0.395
+   ##1 - order: 0.011, binder: 0.396
+   ##2 - order: 0.01, binder: 0.244
+   ##3 - order: 0.01, binder: 0.306
+   ##4 - order: 0.01, binder: 0.288
+   Final - Mean Order: 0.01, Mean Binder: 0.326
+
+#53:
+   ##0 - order: 0.073, binder: 0.291
+   ##1 - order: 0.085, binder: 0.321
+   ##2 - order: 0.081, binder: 0.316
+   ##3 - order: 0.082, binder: 0.311
+   ##4 - order: 0.079, binder: 0.368
+   Final - Mean Order: 0.08, Mean Binder: 0.321
+
+#54:
+   ##0 - order: 0.014, binder: 0.347
+   ##1 - order: 0.014, binder: 0.345
+   ##2 - order: 0.014, binder: 0.318
+   ##3 - order: 0.014, binder: 0.338
+   ##4 - order: 0.013, binder: 0.245
+   Final - Mean Order: 0.014, Mean Binder: 0.319
+
+#55:
+   ##0 - order: 0.009, binder: 0.399
+   ##1 - order: 0.008, binder: 0.251
+   ##2 - order: 0.009, binder: 0.35
+   ##3 - order: 0.009, binder: 0.266
+   ##4 - order: 0.009, binder: 0.319
+   Final - Mean Order: 0.009, Mean Binder: 0.317
+
+#56:
+   ##0 - order: 0.354, binder: 0.558
+   ##1 - order: 0.417, binder: 0.6
+   ##2 - order: 0.356, binder: 0.561
+   ##3 - order: 0.39, binder: 0.578
+   ##4 - order: 0.415, binder: 0.597
+   Final - Mean Order: 0.386, Mean Binder: 0.579
+
+#57:
+   ##0 - order: 0.011, binder: 0.345
+   ##1 - order: 0.01, binder: 0.287
+   ##2 - order: 0.011, binder: 0.327
+   ##3 - order: 0.012, binder: 0.383
+   ##4 - order: 0.01, binder: 0.275
+   Final - Mean Order: 0.011, Mean Binder: 0.323
+
+#58:
+   ##0 - order: 0.095, binder: 0.337
+   ##1 - order: 0.09, binder: 0.344
+   ##2 - order: 0.093, binder: 0.341
+   ##3 - order: 0.103, binder: 0.362
+   ##4 - order: 0.084, binder: 0.35
+   Final - Mean Order: 0.093, Mean Binder: 0.347
+
+#59:
+   ##0 - order: 0.013, binder: 0.221
+   ##1 - order: 0.013, binder: 0.374
+   ##2 - order: 0.014, binder: 0.429
+   ##3 - order: 0.013, binder: 0.322
+   ##4 - order: 0.013, binder: 0.342
+   Final - Mean Order: 0.013, Mean Binder: 0.338
+
+#60:
+   ##0 - order: 0.036, binder: 0.323
+   ##1 - order: 0.036, binder: 0.394
+   ##2 - order: 0.036, binder: 0.381
+   ##3 - order: 0.035, binder: 0.337
+   ##4 - order: 0.035, binder: 0.365
+   Final - Mean Order: 0.035, Mean Binder: 0.36
+
+#61:
+   ##0 - order: 0.013, binder: 0.432
+   ##1 - order: 0.012, binder: 0.367
+   ##2 - order: 0.012, binder: 0.31
+   ##3 - order: 0.011, binder: 0.25
+   ##4 - order: 0.012, binder: 0.359
+   Final - Mean Order: 0.012, Mean Binder: 0.344
+
+#62:
+   ##0 - order: 0.014, binder: 0.29
+   ##1 - order: 0.013, binder: 0.356
+   ##2 - order: 0.013, binder: 0.29
+   ##3 - order: 0.013, binder: 0.331
+   ##4 - order: 0.014, binder: 0.355
+   Final - Mean Order: 0.014, Mean Binder: 0.324
+
+#63:
+   ##0 - order: 0.016, binder: 0.345
+   ##1 - order: 0.016, binder: 0.373
+   ##2 - order: 0.015, binder: 0.291
+   ##3 - order: 0.015, binder: 0.318
+   ##4 - order: 0.016, binder: 0.332
+   Final - Mean Order: 0.016, Mean Binder: 0.332
+
+#64:
+   ##0 - order: 0.069, binder: 0.42
+   ##1 - order: 0.065, binder: 0.388
+   ##2 - order: 0.067, binder: 0.418
+   ##3 - order: 0.066, binder: 0.378
+   ##4 - order: 0.066, binder: 0.419
+   Final - Mean Order: 0.067, Mean Binder: 0.404
+
+#65:
+   ##0 - order: 0.008, binder: 0.358
+   ##1 - order: 0.008, binder: 0.295
+   ##2 - order: 0.008, binder: 0.3
+   ##3 - order: 0.008, binder: 0.365
+   ##4 - order: 0.008, binder: 0.352
+   Final - Mean Order: 0.008, Mean Binder: 0.334
+
+#66:
+   ##0 - order: 0.021, binder: 0.32
+   ##1 - order: 0.022, binder: 0.214
+   ##2 - order: 0.02, binder: 0.345
+   ##3 - order: 0.022, binder: 0.359
+   ##4 - order: 0.02, binder: 0.384
+   Final - Mean Order: 0.021, Mean Binder: 0.324
+
+#67:
+   ##0 - order: 0.011, binder: 0.353
+   ##1 - order: 0.011, binder: 0.351
+   ##2 - order: 0.011, binder: 0.282
+   ##3 - order: 0.011, binder: 0.369
+   ##4 - order: 0.011, binder: 0.261
+   Final - Mean Order: 0.011, Mean Binder: 0.323
+
+#68:
+   ##0 - order: 0.969, binder: 0.667
+   ##1 - order: 0.972, binder: 0.667
+   ##2 - order: 0.971, binder: 0.667
+   ##3 - order: 0.968, binder: 0.666
+   ##4 - order: 0.971, binder: 0.666
+   Final - Mean Order: 0.97, Mean Binder: 0.666
+
+#69:
+   ##0 - order: 0.008, binder: 0.411
+   ##1 - order: 0.009, binder: 0.409
+   ##2 - order: 0.008, binder: 0.389
+   ##3 - order: 0.008, binder: 0.373
+   ##4 - order: 0.008, binder: 0.383
+   Final - Mean Order: 0.008, Mean Binder: 0.393
+
+#70:
+   ##0 - order: 0.062, binder: 0.374
+   ##1 - order: 0.063, binder: 0.393
+   ##2 - order: 0.065, binder: 0.364
+   ##3 - order: 0.061, binder: 0.352
+   ##4 - order: 0.066, binder: 0.411
+   Final - Mean Order: 0.063, Mean Binder: 0.379
+
+#71:
+   ##0 - order: 0.019, binder: 0.339
+   ##1 - order: 0.02, binder: 0.368
+   ##2 - order: 0.019, binder: 0.351
+   ##3 - order: 0.019, binder: 0.37
+   ##4 - order: 0.019, binder: 0.399
+   Final - Mean Order: 0.019, Mean Binder: 0.366
+
+#72:
+   ##0 - order: 0.008, binder: 0.282
+   ##1 - order: 0.008, binder: 0.239
+   ##2 - order: 0.009, binder: 0.253
+   ##3 - order: 0.008, binder: 0.29
+   ##4 - order: 0.008, binder: 0.275
+   Final - Mean Order: 0.008, Mean Binder: 0.268
+
+#73:
+   ##0 - order: 0.453, binder: 0.614
+   ##1 - order: 0.445, binder: 0.621
+   ##2 - order: 0.457, binder: 0.607
+   ##3 - order: 0.454, binder: 0.628
+   ##4 - order: 0.487, binder: 0.628
+   Final - Mean Order: 0.459, Mean Binder: 0.62
+
+#74:
+   ##0 - order: 0.007, binder: 0.359
+   ##1 - order: 0.007, binder: 0.398
+   ##2 - order: 0.007, binder: 0.384
+   ##3 - order: 0.007, binder: 0.282
+   ##4 - order: 0.007, binder: 0.321
+   Final - Mean Order: 0.007, Mean Binder: 0.349
+
+#75:
+   ##0 - order: 0.021, binder: 0.301
+   ##1 - order: 0.021, binder: 0.368
+   ##2 - order: 0.022, binder: 0.34
+   ##3 - order: 0.02, binder: 0.397
+   ##4 - order: 0.021, binder: 0.391
+   Final - Mean Order: 0.021, Mean Binder: 0.359
+
+#76:
+   ##0 - order: 0.015, binder: 0.265
+   ##1 - order: 0.015, binder: 0.421
+   ##2 - order: 0.015, binder: 0.246
+   ##3 - order: 0.014, binder: 0.324
+   ##4 - order: 0.015, binder: 0.414
+   Final - Mean Order: 0.015, Mean Binder: 0.334
+
+#77:
+   ##0 - order: 0.007, binder: 0.298
+   ##1 - order: 0.006, binder: 0.34
+   ##2 - order: 0.007, binder: 0.365
+   ##3 - order: 0.007, binder: 0.386
+   ##4 - order: 0.007, binder: 0.439
+   Final - Mean Order: 0.007, Mean Binder: 0.366
+
+#78:
+   ##0 - order: 0.01, binder: 0.299
+   ##1 - order: 0.011, binder: 0.325
+   ##2 - order: 0.011, binder: 0.323
+   ##3 - order: 0.01, binder: 0.25
+   ##4 - order: 0.011, binder: 0.416
+   Final - Mean Order: 0.011, Mean Binder: 0.323
+
+#79:
+   ##0 - order: 0.981, binder: 0.667
+   ##1 - order: 0.982, binder: 0.667
+   ##2 - order: 0.982, binder: 0.667
+   ##3 - order: 0.981, binder: 0.667
+   ##4 - order: 0.981, binder: 0.667
+   Final - Mean Order: 0.981, Mean Binder: 0.667
+
+#80:
+   ##0 - order: 0.54, binder: 0.636
+   ##1 - order: 0.541, binder: 0.646
+   ##2 - order: 0.554, binder: 0.646
+   ##3 - order: 0.535, binder: 0.643
+   ##4 - order: 0.552, binder: 0.641
+   Final - Mean Order: 0.544, Mean Binder: 0.642
+
+#81:
+   ##0 - order: 0.037, binder: 0.228
+   ##1 - order: 0.038, binder: 0.326
+   ##2 - order: 0.038, binder: 0.374
+   ##3 - order: 0.036, binder: 0.371
+   ##4 - order: 0.037, binder: 0.314
+   Final - Mean Order: 0.037, Mean Binder: 0.322
+
+#82:
+   ##0 - order: 0.008, binder: 0.331
+   ##1 - order: 0.007, binder: 0.274
+   ##2 - order: 0.007, binder: 0.319
+   ##3 - order: 0.007, binder: 0.313
+   ##4 - order: 0.007, binder: 0.334
+   Final - Mean Order: 0.007, Mean Binder: 0.314
+
+#83:
+   ##0 - order: 0.039, binder: 0.359
+   ##1 - order: 0.041, binder: 0.293
+   ##2 - order: 0.043, binder: 0.358
+   ##3 - order: 0.042, binder: 0.374
+   ##4 - order: 0.042, binder: 0.395
+   Final - Mean Order: 0.041, Mean Binder: 0.356
+
+#84:
+   ##0 - order: 0.038, binder: 0.337
+   ##1 - order: 0.036, binder: 0.294
+   ##2 - order: 0.038, binder: 0.313
+   ##3 - order: 0.037, binder: 0.369
+   ##4 - order: 0.039, binder: 0.357
+   Final - Mean Order: 0.038, Mean Binder: 0.334
+
+#85:
+   ##0 - order: 0.816, binder: 0.666
+   ##1 - order: 0.813, binder: 0.666
+   ##2 - order: 0.812, binder: 0.665
+   ##3 - order: 0.814, binder: 0.666
+   ##4 - order: 0.816, binder: 0.666
+   Final - Mean Order: 0.814, Mean Binder: 0.666
+
+#86:
+   ##0 - order: 0.023, binder: 0.379
+   ##1 - order: 0.024, binder: 0.277
+   ##2 - order: 0.022, binder: 0.346
+   ##3 - order: 0.025, binder: 0.353
+   ##4 - order: 0.022, binder: 0.311
+   Final - Mean Order: 0.023, Mean Binder: 0.333
+
+#87:
+   ##0 - order: 0.02, binder: 0.336
+   ##1 - order: 0.02, binder: 0.33
+   ##2 - order: 0.019, binder: 0.312
+   ##3 - order: 0.022, binder: 0.381
+   ##4 - order: 0.019, binder: 0.376
+   Final - Mean Order: 0.02, Mean Binder: 0.347
+
+#88:
+   ##0 - order: 0.954, binder: 0.665
+   ##1 - order: 0.962, binder: 0.666
+   ##2 - order: 0.959, binder: 0.666
+   ##3 - order: 0.96, binder: 0.666
+   ##4 - order: 0.958, binder: 0.666
+   Final - Mean Order: 0.959, Mean Binder: 0.666
+
+#89:
+   ##0 - order: 0.314, binder: 0.52
+   ##1 - order: 0.351, binder: 0.584
+   ##2 - order: 0.327, binder: 0.544
+   ##3 - order: 0.326, binder: 0.546
+   ##4 - order: 0.288, binder: 0.489
+   Final - Mean Order: 0.321, Mean Binder: 0.536
+
+#90:
+   ##0 - order: 0.021, binder: 0.365
+   ##1 - order: 0.021, binder: 0.305
+   ##2 - order: 0.021, binder: 0.284
+   ##3 - order: 0.022, binder: 0.335
+   ##4 - order: 0.022, binder: 0.347
+   Final - Mean Order: 0.021, Mean Binder: 0.327
+
+#91:
+   ##0 - order: 0.091, binder: 0.381
+   ##1 - order: 0.087, binder: 0.39
+   ##2 - order: 0.082, binder: 0.306
+   ##3 - order: 0.088, binder: 0.386
+   ##4 - order: 0.086, binder: 0.34
+   Final - Mean Order: 0.087, Mean Binder: 0.36
+
+#92:
+   ##0 - order: 0.023, binder: 0.343
+   ##1 - order: 0.024, binder: 0.347
+   ##2 - order: 0.023, binder: 0.353
+   ##3 - order: 0.023, binder: 0.262
+   ##4 - order: 0.024, binder: 0.382
+   Final - Mean Order: 0.023, Mean Binder: 0.337
+
+#93:
+   ##0 - order: 0.097, binder: 0.322
+   ##1 - order: 0.094, binder: 0.386
+   ##2 - order: 0.088, binder: 0.284
+   ##3 - order: 0.095, binder: 0.415
+   ##4 - order: 0.1, binder: 0.417
+   Final - Mean Order: 0.095, Mean Binder: 0.365
+
+#94:
+   ##0 - order: 0.011, binder: 0.322
+   ##1 - order: 0.011, binder: 0.266
+   ##2 - order: 0.011, binder: 0.326
+   ##3 - order: 0.012, binder: 0.358
+   ##4 - order: 0.011, binder: 0.339
+   Final - Mean Order: 0.011, Mean Binder: 0.322
+
+#95:
+   ##0 - order: 0.005, binder: 0.272
+   ##1 - order: 0.005, binder: 0.349
+   ##2 - order: 0.004, binder: 0.32
+   ##3 - order: 0.005, binder: 0.356
+   ##4 - order: 0.005, binder: 0.364
+   Final - Mean Order: 0.005, Mean Binder: 0.332
+
+#96:
+   ##0 - order: 0.013, binder: 0.357
+   ##1 - order: 0.012, binder: 0.361
+   ##2 - order: 0.013, binder: 0.424
+   ##3 - order: 0.014, binder: 0.417
+   ##4 - order: 0.013, binder: 0.325
+   Final - Mean Order: 0.013, Mean Binder: 0.377
+
+#97:
+   ##0 - order: 0.877, binder: 0.666
+   ##1 - order: 0.87, binder: 0.666
+   ##2 - order: 0.876, binder: 0.666
+   ##3 - order: 0.873, binder: 0.666
+   ##4 - order: 0.875, binder: 0.666
+   Final - Mean Order: 0.874, Mean Binder: 0.666
+
+#98:
+   ##0 - order: 0.008, binder: 0.335
+   ##1 - order: 0.008, binder: 0.37
+   ##2 - order: 0.008, binder: 0.355
+   ##3 - order: 0.008, binder: 0.37
+   ##4 - order: 0.008, binder: 0.353
+   Final - Mean Order: 0.008, Mean Binder: 0.357
+
+#99:
+   ##0 - order: 0.053, binder: 0.349
+   ##1 - order: 0.05, binder: 0.28
+   ##2 - order: 0.05, binder: 0.41
+   ##3 - order: 0.052, binder: 0.365
+   ##4 - order: 0.051, binder: 0.384
+   Final - Mean Order: 0.051, Mean Binder: 0.357
+
+#100:
+   ##0 - order: 0.012, binder: 0.312
+   ##1 - order: 0.013, binder: 0.372
+   ##2 - order: 0.012, binder: 0.374
+   ##3 - order: 0.013, binder: 0.383
+   ##4 - order: 0.013, binder: 0.355
+   Final - Mean Order: 0.013, Mean Binder: 0.359
+
+#101:
+   ##0 - order: 0.994, binder: 0.667
+   ##1 - order: 0.994, binder: 0.667
+   ##2 - order: 0.994, binder: 0.667
+   ##3 - order: 0.993, binder: 0.667
+   ##4 - order: 0.993, binder: 0.667
+   Final - Mean Order: 0.993, Mean Binder: 0.667
+
+#102:
+   ##0 - order: 0.888, binder: 0.666
+   ##1 - order: 0.886, binder: 0.666
+   ##2 - order: 0.887, binder: 0.667
+   ##3 - order: 0.889, binder: 0.666
+   ##4 - order: 0.888, binder: 0.667
+   Final - Mean Order: 0.888, Mean Binder: 0.667
+
+#103:
+   ##0 - order: 0.013, binder: 0.37
+   ##1 - order: 0.014, binder: 0.344
+   ##2 - order: 0.015, binder: 0.319
+   ##3 - order: 0.013, binder: 0.351
+   ##4 - order: 0.014, binder: 0.301
+   Final - Mean Order: 0.014, Mean Binder: 0.337
+
+#104:
+   ##0 - order: 0.005, binder: 0.319
+   ##1 - order: 0.005, binder: 0.316
+   ##2 - order: 0.005, binder: 0.238
+   ##3 - order: 0.005, binder: 0.302
+   ##4 - order: 0.005, binder: 0.204
+   Final - Mean Order: 0.005, Mean Binder: 0.276
+
+#105:
+   ##0 - order: 0.025, binder: 0.394
+   ##1 - order: 0.025, binder: 0.38
+   ##2 - order: 0.025, binder: 0.337
+   ##3 - order: 0.025, binder: 0.282
+   ##4 - order: 0.025, binder: 0.276
+   Final - Mean Order: 0.025, Mean Binder: 0.334
+
+#106:
+   ##0 - order: 0.124, binder: 0.369
+   ##1 - order: 0.12, binder: 0.4
+   ##2 - order: 0.109, binder: 0.398
+   ##3 - order: 0.112, binder: 0.372
+   ##4 - order: 0.116, binder: 0.375
+   Final - Mean Order: 0.116, Mean Binder: 0.383
+
+#107:
+   ##0 - order: 0.618, binder: 0.663
+   ##1 - order: 0.615, binder: 0.662
+   ##2 - order: 0.62, binder: 0.661
+   ##3 - order: 0.619, binder: 0.662
+   ##4 - order: 0.616, binder: 0.661
+   Final - Mean Order: 0.618, Mean Binder: 0.662
+
+#108:
+   ##0 - order: 0.086, binder: 0.278
+   ##1 - order: 0.086, binder: 0.34
+   ##2 - order: 0.088, binder: 0.37
+   ##3 - order: 0.083, binder: 0.258
+   ##4 - order: 0.087, binder: 0.368
+   Final - Mean Order: 0.086, Mean Binder: 0.323
+
+#109:
+   ##0 - order: 0.03, binder: 0.333
+   ##1 - order: 0.033, binder: 0.4
+   ##2 - order: 0.031, binder: 0.343
+   ##3 - order: 0.033, binder: 0.334
+   ##4 - order: 0.032, binder: 0.348
+   Final - Mean Order: 0.032, Mean Binder: 0.352
+
+#110:
+   ##0 - order: 0.111, binder: 0.35
+   ##1 - order: 0.112, binder: 0.398
+   ##2 - order: 0.111, binder: 0.361
+   ##3 - order: 0.12, binder: 0.393
+   ##4 - order: 0.112, binder: 0.41
+   Final - Mean Order: 0.113, Mean Binder: 0.382
+
+#111:
+   ##0 - order: 0.016, binder: 0.384
+   ##1 - order: 0.015, binder: 0.375
+   ##2 - order: 0.017, binder: 0.4
+   ##3 - order: 0.015, binder: 0.293
+   ##4 - order: 0.016, binder: 0.325
+   Final - Mean Order: 0.016, Mean Binder: 0.355
+
+#112:
+   ##0 - order: 1.0, binder: 0.667
+   ##1 - order: 0.999, binder: 0.667
+   ##2 - order: 1.0, binder: 0.667
+   ##3 - order: 0.999, binder: 0.667
+   ##4 - order: 1.0, binder: 0.667
+   Final - Mean Order: 1.0, Mean Binder: 0.667
+
+#113:
+   ##0 - order: 0.072, binder: 0.378
+   ##1 - order: 0.07, binder: 0.391
+   ##2 - order: 0.067, binder: 0.426
+   ##3 - order: 0.069, binder: 0.407
+   ##4 - order: 0.077, binder: 0.395
+   Final - Mean Order: 0.071, Mean Binder: 0.399
+
+#114:
+   ##0 - order: 0.899, binder: 0.666
+   ##1 - order: 0.886, binder: 0.665
+   ##2 - order: 0.899, binder: 0.666
+   ##3 - order: 0.879, binder: 0.664
+   ##4 - order: 0.886, binder: 0.665
+   Final - Mean Order: 0.89, Mean Binder: 0.665
+
+#115:
+   ##0 - order: 0.006, binder: 0.329
+   ##1 - order: 0.005, binder: 0.298
+   ##2 - order: 0.005, binder: 0.335
+   ##3 - order: 0.005, binder: 0.322
+   ##4 - order: 0.006, binder: 0.438
+   Final - Mean Order: 0.006, Mean Binder: 0.345
+
+#116:
+   ##0 - order: 0.019, binder: 0.406
+   ##1 - order: 0.018, binder: 0.271
+   ##2 - order: 0.019, binder: 0.308
+   ##3 - order: 0.018, binder: 0.391
+   ##4 - order: 0.019, binder: 0.375
+   Final - Mean Order: 0.019, Mean Binder: 0.35
+
+#117:
+   ##0 - order: 0.022, binder: 0.343
+   ##1 - order: 0.021, binder: 0.314
+   ##2 - order: 0.022, binder: 0.369
+   ##3 - order: 0.022, binder: 0.336
+   ##4 - order: 0.02, binder: 0.273
+   Final - Mean Order: 0.022, Mean Binder: 0.327
+
+#118:
+   ##0 - order: 0.016, binder: 0.353
+   ##1 - order: 0.014, binder: 0.309
+   ##2 - order: 0.014, binder: 0.32
+   ##3 - order: 0.014, binder: 0.291
+   ##4 - order: 0.014, binder: 0.287
+   Final - Mean Order: 0.014, Mean Binder: 0.312
+
+#119:
+   ##0 - order: 0.006, binder: 0.331
+   ##1 - order: 0.006, binder: 0.41
+   ##2 - order: 0.006, binder: 0.361
+   ##3 - order: 0.005, binder: 0.364
+   ##4 - order: 0.006, binder: 0.312
+   Final - Mean Order: 0.006, Mean Binder: 0.356
+
+#120:
+   ##0 - order: 0.844, binder: 0.666
+   ##1 - order: 0.85, binder: 0.665
+   ##2 - order: 0.847, binder: 0.665
+   ##3 - order: 0.846, binder: 0.665
+   ##4 - order: 0.843, binder: 0.665
+   Final - Mean Order: 0.846, Mean Binder: 0.665
+
+#121:
+   ##0 - order: 0.4, binder: 0.558
+   ##1 - order: 0.484, binder: 0.616
+   ##2 - order: 0.432, binder: 0.577
+   ##3 - order: 0.459, binder: 0.606
+   ##4 - order: 0.485, binder: 0.613
+   Final - Mean Order: 0.452, Mean Binder: 0.594
+
+#122:
+   ##0 - order: 0.327, binder: 0.488
+   ##1 - order: 0.334, binder: 0.495
+   ##2 - order: 0.359, binder: 0.529
+   ##3 - order: 0.314, binder: 0.495
+   ##4 - order: 0.329, binder: 0.522
+   Final - Mean Order: 0.332, Mean Binder: 0.506
+
+#123:
+   ##0 - order: 0.834, binder: 0.665
+   ##1 - order: 0.839, binder: 0.665
+   ##2 - order: 0.84, binder: 0.665
+   ##3 - order: 0.836, binder: 0.665
+   ##4 - order: 0.843, binder: 0.665
+   Final - Mean Order: 0.838, Mean Binder: 0.665
+
+#124:
+   ##0 - order: 0.312, binder: 0.527
+   ##1 - order: 0.317, binder: 0.526
+   ##2 - order: 0.326, binder: 0.518
+   ##3 - order: 0.291, binder: 0.496
+   ##4 - order: 0.329, binder: 0.521
+   Final - Mean Order: 0.315, Mean Binder: 0.518
+
+#125:
+   ##0 - order: 0.004, binder: 0.292
+   ##1 - order: 0.004, binder: 0.374
+   ##2 - order: 0.004, binder: 0.313
+   ##3 - order: 0.004, binder: 0.273
+   ##4 - order: 0.004, binder: 0.35
+   Final - Mean Order: 0.004, Mean Binder: 0.32
+
+#126:
+   ##0 - order: 0.204, binder: 0.435
+   ##1 - order: 0.198, binder: 0.449
+   ##2 - order: 0.203, binder: 0.429
+   ##3 - order: 0.218, binder: 0.482
+   ##4 - order: 0.201, binder: 0.471
+   Final - Mean Order: 0.205, Mean Binder: 0.453
+
+#127:
+   ##0 - order: 0.799, binder: 0.664
+   ##1 - order: 0.798, binder: 0.663
+   ##2 - order: 0.792, binder: 0.661
+   ##3 - order: 0.803, binder: 0.661
+   ##4 - order: 0.8, binder: 0.664
+   Final - Mean Order: 0.799, Mean Binder: 0.663
+
+#128:
+   ##0 - order: 0.016, binder: 0.283
+   ##1 - order: 0.014, binder: 0.242
+   ##2 - order: 0.015, binder: 0.317
+   ##3 - order: 0.014, binder: 0.317
+   ##4 - order: 0.014, binder: 0.373
+   Final - Mean Order: 0.015, Mean Binder: 0.306
+
+#129:
+   ##0 - order: 0.017, binder: 0.296
+   ##1 - order: 0.018, binder: 0.314
+   ##2 - order: 0.017, binder: 0.368
+   ##3 - order: 0.019, binder: 0.345
+   ##4 - order: 0.017, binder: 0.425
+   Final - Mean Order: 0.018, Mean Binder: 0.35
+
+#130:
+   ##0 - order: 0.682, binder: 0.666
+   ##1 - order: 0.685, binder: 0.666
+   ##2 - order: 0.684, binder: 0.666
+   ##3 - order: 0.681, binder: 0.666
+   ##4 - order: 0.685, binder: 0.666
+   Final - Mean Order: 0.683, Mean Binder: 0.666
+
+#131:
+   ##0 - order: 0.007, binder: 0.363
+   ##1 - order: 0.007, binder: 0.35
+   ##2 - order: 0.007, binder: 0.34
+   ##3 - order: 0.007, binder: 0.266
+   ##4 - order: 0.007, binder: 0.259
+   Final - Mean Order: 0.007, Mean Binder: 0.316
+
+#132:
+   ##0 - order: 0.015, binder: 0.322
+   ##1 - order: 0.015, binder: 0.38
+   ##2 - order: 0.015, binder: 0.364
+   ##3 - order: 0.016, binder: 0.338
+   ##4 - order: 0.015, binder: 0.203
+   Final - Mean Order: 0.015, Mean Binder: 0.321
+
+#133:
+   ##0 - order: 0.02, binder: 0.301
+   ##1 - order: 0.021, binder: 0.328
+   ##2 - order: 0.02, binder: 0.409
+   ##3 - order: 0.021, binder: 0.38
+   ##4 - order: 0.021, binder: 0.287
+   Final - Mean Order: 0.02, Mean Binder: 0.341
+
+#134:
+   ##0 - order: 0.012, binder: 0.321
+   ##1 - order: 0.011, binder: 0.351
+   ##2 - order: 0.011, binder: 0.349
+   ##3 - order: 0.011, binder: 0.337
+   ##4 - order: 0.011, binder: 0.229
+   Final - Mean Order: 0.011, Mean Binder: 0.317
+
+#135:
+   ##0 - order: 0.011, binder: 0.351
+   ##1 - order: 0.011, binder: 0.251
+   ##2 - order: 0.012, binder: 0.38
+   ##3 - order: 0.012, binder: 0.319
+   ##4 - order: 0.012, binder: 0.262
+   Final - Mean Order: 0.012, Mean Binder: 0.313
+
+#136:
+   ##0 - order: 0.809, binder: 0.666
+   ##1 - order: 0.809, binder: 0.666
+   ##2 - order: 0.809, binder: 0.666
+   ##3 - order: 0.811, binder: 0.666
+   ##4 - order: 0.809, binder: 0.666
+   Final - Mean Order: 0.809, Mean Binder: 0.666
+
+#137:
+   ##0 - order: 0.104, binder: 0.28
+   ##1 - order: 0.105, binder: 0.397
+   ##2 - order: 0.11, binder: 0.429
+   ##3 - order: 0.109, binder: 0.355
+   ##4 - order: 0.102, binder: 0.256
+   Final - Mean Order: 0.106, Mean Binder: 0.343
+
+#138:
+   ##0 - order: 0.017, binder: 0.379
+   ##1 - order: 0.017, binder: 0.391
+   ##2 - order: 0.016, binder: 0.296
+   ##3 - order: 0.016, binder: 0.375
+   ##4 - order: 0.015, binder: 0.336
+   Final - Mean Order: 0.016, Mean Binder: 0.355
+
+#139:
+   ##0 - order: 0.008, binder: 0.354
+   ##1 - order: 0.008, binder: 0.332
+   ##2 - order: 0.007, binder: 0.37
+   ##3 - order: 0.008, binder: 0.319
+   ##4 - order: 0.008, binder: 0.298
+   Final - Mean Order: 0.008, Mean Binder: 0.335
+
+#140:
+   ##0 - order: 0.601, binder: 0.651
+   ##1 - order: 0.599, binder: 0.64
+   ##2 - order: 0.589, binder: 0.648
+   ##3 - order: 0.584, binder: 0.641
+   ##4 - order: 0.616, binder: 0.65
+   Final - Mean Order: 0.598, Mean Binder: 0.646
+
+#141:
+   ##0 - order: 0.527, binder: 0.647
+   ##1 - order: 0.514, binder: 0.641
+   ##2 - order: 0.521, binder: 0.636
+   ##3 - order: 0.534, binder: 0.654
+   ##4 - order: 0.516, binder: 0.639
+   Final - Mean Order: 0.522, Mean Binder: 0.643
+
+#142:
+   ##0 - order: 0.011, binder: 0.34
+   ##1 - order: 0.01, binder: 0.375
+   ##2 - order: 0.01, binder: 0.417
+   ##3 - order: 0.01, binder: 0.41
+   ##4 - order: 0.011, binder: 0.331
+   Final - Mean Order: 0.01, Mean Binder: 0.375
+
+#143:
+   ##0 - order: 0.011, binder: 0.347
+   ##1 - order: 0.009, binder: 0.354
+   ##2 - order: 0.009, binder: 0.387
+   ##3 - order: 0.01, binder: 0.345
+   ##4 - order: 0.01, binder: 0.351
+   Final - Mean Order: 0.01, Mean Binder: 0.357
+
+#144:
+   ##0 - order: 0.02, binder: 0.345
+   ##1 - order: 0.021, binder: 0.387
+   ##2 - order: 0.02, binder: 0.355
+   ##3 - order: 0.019, binder: 0.247
+   ##4 - order: 0.021, binder: 0.272
+   Final - Mean Order: 0.02, Mean Binder: 0.321
+
+#145:
+   ##0 - order: 0.021, binder: 0.366
+   ##1 - order: 0.021, binder: 0.299
+   ##2 - order: 0.021, binder: 0.349
+   ##3 - order: 0.021, binder: 0.403
+   ##4 - order: 0.022, binder: 0.395
+   Final - Mean Order: 0.021, Mean Binder: 0.362
+
+#146:
+   ##0 - order: 0.247, binder: 0.551
+   ##1 - order: 0.261, binder: 0.531
+   ##2 - order: 0.23, binder: 0.478
+   ##3 - order: 0.237, binder: 0.534
+   ##4 - order: 0.237, binder: 0.458
+   Final - Mean Order: 0.243, Mean Binder: 0.511
+
+#147:
+   ##0 - order: 0.01, binder: 0.38
+   ##1 - order: 0.01, binder: 0.284
+   ##2 - order: 0.01, binder: 0.405
+   ##3 - order: 0.01, binder: 0.316
+   ##4 - order: 0.009, binder: 0.315
+   Final - Mean Order: 0.01, Mean Binder: 0.34
+
+#148:
+   ##0 - order: 0.673, binder: 0.658
+   ##1 - order: 0.675, binder: 0.658
+   ##2 - order: 0.66, binder: 0.653
+   ##3 - order: 0.643, binder: 0.656
+   ##4 - order: 0.653, binder: 0.653
+   Final - Mean Order: 0.661, Mean Binder: 0.656
+
+#149:
+   ##0 - order: 0.014, binder: 0.398
+   ##1 - order: 0.013, binder: 0.353
+   ##2 - order: 0.013, binder: 0.365
+   ##3 - order: 0.013, binder: 0.385
+   ##4 - order: 0.013, binder: 0.32
+   Final - Mean Order: 0.013, Mean Binder: 0.364
+
+#150:
+   ##0 - order: 0.153, binder: 0.414
+   ##1 - order: 0.12, binder: 0.376
+   ##2 - order: 0.161, binder: 0.467
+   ##3 - order: 0.139, binder: 0.413
+   ##4 - order: 0.142, binder: 0.35
+   Final - Mean Order: 0.143, Mean Binder: 0.404
+
+#151:
+   ##0 - order: 0.478, binder: 0.572
+   ##1 - order: 0.467, binder: 0.594
+   ##2 - order: 0.476, binder: 0.556
+   ##3 - order: 0.416, binder: 0.503
+   ##4 - order: 0.489, binder: 0.539
+   Final - Mean Order: 0.465, Mean Binder: 0.552
+
+#152:
+   ##0 - order: 0.017, binder: 0.376
+   ##1 - order: 0.017, binder: 0.319
+   ##2 - order: 0.016, binder: 0.356
+   ##3 - order: 0.017, binder: 0.34
+   ##4 - order: 0.016, binder: 0.338
+   Final - Mean Order: 0.017, Mean Binder: 0.346
+
+#153:
+   ##0 - order: 0.173, binder: 0.358
+   ##1 - order: 0.199, binder: 0.472
+   ##2 - order: 0.183, binder: 0.367
+   ##3 - order: 0.178, binder: 0.421
+   ##4 - order: 0.193, binder: 0.472
+   Final - Mean Order: 0.185, Mean Binder: 0.418
+
+#154:
+   ##0 - order: 0.019, binder: 0.306
+   ##1 - order: 0.019, binder: 0.353
+   ##2 - order: 0.018, binder: 0.321
+   ##3 - order: 0.018, binder: 0.306
+   ##4 - order: 0.018, binder: 0.382
+   Final - Mean Order: 0.018, Mean Binder: 0.334
+
+#155:
+   ##0 - order: 0.029, binder: 0.347
+   ##1 - order: 0.031, binder: 0.41
+   ##2 - order: 0.031, binder: 0.342
+   ##3 - order: 0.032, binder: 0.238
+   ##4 - order: 0.032, binder: 0.392
+   Final - Mean Order: 0.031, Mean Binder: 0.346
+
+#156:
+   ##0 - order: 0.016, binder: 0.358
+   ##1 - order: 0.016, binder: 0.312
+   ##2 - order: 0.016, binder: 0.352
+   ##3 - order: 0.016, binder: 0.372
+   ##4 - order: 0.015, binder: 0.335
+   Final - Mean Order: 0.016, Mean Binder: 0.346
+
+#157:
+   ##0 - order: 0.025, binder: 0.308
+   ##1 - order: 0.025, binder: 0.365
+   ##2 - order: 0.024, binder: 0.272
+   ##3 - order: 0.025, binder: 0.307
+   ##4 - order: 0.023, binder: 0.273
+   Final - Mean Order: 0.024, Mean Binder: 0.305
+
+#158:
+   ##0 - order: 0.011, binder: 0.308
+   ##1 - order: 0.011, binder: 0.242
+   ##2 - order: 0.011, binder: 0.349
+   ##3 - order: 0.013, binder: 0.342
+   ##4 - order: 0.012, binder: 0.297
+   Final - Mean Order: 0.012, Mean Binder: 0.308
+
+#159:
+   ##0 - order: 0.591, binder: 0.641
+   ##1 - order: 0.666, binder: 0.662
+   ##2 - order: 0.631, binder: 0.662
+   ##3 - order: 0.646, binder: 0.659
+   ##4 - order: 0.631, binder: 0.657
+   Final - Mean Order: 0.633, Mean Binder: 0.656
+
+#160:
+   ##0 - order: 0.03, binder: 0.302
+   ##1 - order: 0.032, binder: 0.279
+   ##2 - order: 0.029, binder: 0.33
+   ##3 - order: 0.032, binder: 0.374
+   ##4 - order: 0.031, binder: 0.369
+   Final - Mean Order: 0.031, Mean Binder: 0.331
+
+#161:
+   ##0 - order: 0.009, binder: 0.392
+   ##1 - order: 0.009, binder: 0.359
+   ##2 - order: 0.009, binder: 0.351
+   ##3 - order: 0.009, binder: 0.37
+   ##4 - order: 0.009, binder: 0.285
+   Final - Mean Order: 0.009, Mean Binder: 0.351
+
+#162:
+   ##0 - order: 0.021, binder: 0.342
+   ##1 - order: 0.02, binder: 0.31
+   ##2 - order: 0.021, binder: 0.375
+   ##3 - order: 0.019, binder: 0.26
+   ##4 - order: 0.02, binder: 0.337
+   Final - Mean Order: 0.02, Mean Binder: 0.325
+
+#163:
+   ##0 - order: 0.004, binder: 0.377
+   ##1 - order: 0.004, binder: 0.361
+   ##2 - order: 0.004, binder: 0.358
+   ##3 - order: 0.004, binder: 0.282
+   ##4 - order: 0.004, binder: 0.341
+   Final - Mean Order: 0.004, Mean Binder: 0.344
+
+#164:
+   ##0 - order: 0.006, binder: 0.345
+   ##1 - order: 0.006, binder: 0.352
+   ##2 - order: 0.006, binder: 0.225
+   ##3 - order: 0.006, binder: 0.312
+   ##4 - order: 0.006, binder: 0.174
+   Final - Mean Order: 0.006, Mean Binder: 0.282
+
+#165:
+   ##0 - order: 0.437, binder: 0.547
+   ##1 - order: 0.436, binder: 0.559
+   ##2 - order: 0.367, binder: 0.486
+   ##3 - order: 0.407, binder: 0.542
+   ##4 - order: 0.425, binder: 0.578
+   Final - Mean Order: 0.414, Mean Binder: 0.542
+
+#166:
+   ##0 - order: 0.025, binder: 0.32
+   ##1 - order: 0.025, binder: 0.288
+   ##2 - order: 0.027, binder: 0.369
+   ##3 - order: 0.025, binder: 0.366
+   ##4 - order: 0.025, binder: 0.38
+   Final - Mean Order: 0.025, Mean Binder: 0.345
+
+#167:
+   ##0 - order: 0.006, binder: 0.381
+   ##1 - order: 0.007, binder: 0.4
+   ##2 - order: 0.007, binder: 0.331
+   ##3 - order: 0.006, binder: 0.272
+   ##4 - order: 0.007, binder: 0.313
+   Final - Mean Order: 0.007, Mean Binder: 0.339
+
+#168:
+   ##0 - order: 0.015, binder: 0.381
+   ##1 - order: 0.015, binder: 0.359
+   ##2 - order: 0.015, binder: 0.377
+   ##3 - order: 0.015, binder: 0.388
+   ##4 - order: 0.015, binder: 0.366
+   Final - Mean Order: 0.015, Mean Binder: 0.374
+
+#169:
+   ##0 - order: 0.025, binder: 0.387
+   ##1 - order: 0.026, binder: 0.344
+   ##2 - order: 0.024, binder: 0.353
+   ##3 - order: 0.025, binder: 0.269
+   ##4 - order: 0.025, binder: 0.317
+   Final - Mean Order: 0.025, Mean Binder: 0.334
+
+#170:
+   ##0 - order: 0.682, binder: 0.657
+   ##1 - order: 0.698, binder: 0.66
+   ##2 - order: 0.721, binder: 0.663
+   ##3 - order: 0.711, binder: 0.66
+   ##4 - order: 0.715, binder: 0.664
+   Final - Mean Order: 0.705, Mean Binder: 0.661
+
+#171:
+   ##0 - order: 0.01, binder: 0.384
+   ##1 - order: 0.01, binder: 0.31
+   ##2 - order: 0.01, binder: 0.343
+   ##3 - order: 0.01, binder: 0.375
+   ##4 - order: 0.01, binder: 0.343
+   Final - Mean Order: 0.01, Mean Binder: 0.351
+
+#172:
+   ##0 - order: 0.021, binder: 0.351
+   ##1 - order: 0.022, binder: 0.434
+   ##2 - order: 0.021, binder: 0.372
+   ##3 - order: 0.021, binder: 0.316
+   ##4 - order: 0.021, binder: 0.366
+   Final - Mean Order: 0.021, Mean Binder: 0.368
+
+#173:
+   ##0 - order: 0.026, binder: 0.338
+   ##1 - order: 0.028, binder: 0.364
+   ##2 - order: 0.028, binder: 0.369
+   ##3 - order: 0.028, binder: 0.327
+   ##4 - order: 0.029, binder: 0.387
+   Final - Mean Order: 0.028, Mean Binder: 0.357
+
+#174:
+   ##0 - order: 0.013, binder: 0.348
+   ##1 - order: 0.013, binder: 0.385
+   ##2 - order: 0.014, binder: 0.269
+   ##3 - order: 0.014, binder: 0.38
+   ##4 - order: 0.014, binder: 0.307
+   Final - Mean Order: 0.014, Mean Binder: 0.338
+
+#175:
+   ##0 - order: 0.02, binder: 0.335
+   ##1 - order: 0.021, binder: 0.353
+   ##2 - order: 0.019, binder: 0.321
+   ##3 - order: 0.02, binder: 0.339
+   ##4 - order: 0.021, binder: 0.333
+   Final - Mean Order: 0.02, Mean Binder: 0.336
+
+#176:
+   ##0 - order: 0.022, binder: 0.313
+   ##1 - order: 0.022, binder: 0.304
+   ##2 - order: 0.023, binder: 0.345
+   ##3 - order: 0.024, binder: 0.393
+   ##4 - order: 0.023, binder: 0.386
+   Final - Mean Order: 0.023, Mean Binder: 0.348
+
+#177:
+   ##0 - order: 0.02, binder: 0.334
+   ##1 - order: 0.02, binder: 0.375
+   ##2 - order: 0.02, binder: 0.387
+   ##3 - order: 0.021, binder: 0.294
+   ##4 - order: 0.02, binder: 0.366
+   Final - Mean Order: 0.02, Mean Binder: 0.351
+
+#178:
+   ##0 - order: 0.021, binder: 0.281
+   ##1 - order: 0.021, binder: 0.389
+   ##2 - order: 0.02, binder: 0.374
+   ##3 - order: 0.02, binder: 0.332
+   ##4 - order: 0.019, binder: 0.337
+   Final - Mean Order: 0.02, Mean Binder: 0.342
+
+#179:
+   ##0 - order: 0.022, binder: 0.403
+   ##1 - order: 0.019, binder: 0.417
+   ##2 - order: 0.019, binder: 0.385
+   ##3 - order: 0.02, binder: 0.145
+   ##4 - order: 0.022, binder: 0.341
+   Final - Mean Order: 0.02, Mean Binder: 0.338
+
+#180:
+   ##0 - order: 0.017, binder: 0.293
+   ##1 - order: 0.016, binder: 0.317
+   ##2 - order: 0.016, binder: 0.321
+   ##3 - order: 0.015, binder: 0.342
+   ##4 - order: 0.016, binder: 0.321
+   Final - Mean Order: 0.016, Mean Binder: 0.319
+
+#181:
+   ##0 - order: 0.81, binder: 0.664
+   ##1 - order: 0.806, binder: 0.663
+   ##2 - order: 0.806, binder: 0.664
+   ##3 - order: 0.81, binder: 0.665
+   ##4 - order: 0.799, binder: 0.663
+   Final - Mean Order: 0.806, Mean Binder: 0.664
+
+#182:
+   ##0 - order: 0.68, binder: 0.662
+   ##1 - order: 0.679, binder: 0.661
+   ##2 - order: 0.691, binder: 0.662
+   ##3 - order: 0.686, binder: 0.662
+   ##4 - order: 0.68, binder: 0.66
+   Final - Mean Order: 0.683, Mean Binder: 0.662
+
+#183:
+   ##0 - order: 0.13, binder: 0.426
+   ##1 - order: 0.132, binder: 0.426
+   ##2 - order: 0.127, binder: 0.408
+   ##3 - order: 0.131, binder: 0.431
+   ##4 - order: 0.13, binder: 0.329
+   Final - Mean Order: 0.13, Mean Binder: 0.404
+
+#184:
+   ##0 - order: 0.007, binder: 0.299
+   ##1 - order: 0.007, binder: 0.341
+   ##2 - order: 0.007, binder: 0.384
+   ##3 - order: 0.007, binder: 0.397
+   ##4 - order: 0.007, binder: 0.342
+   Final - Mean Order: 0.007, Mean Binder: 0.353
+
+#185:
+   ##0 - order: 0.019, binder: 0.405
+   ##1 - order: 0.019, binder: 0.339
+   ##2 - order: 0.019, binder: 0.341
+   ##3 - order: 0.019, binder: 0.42
+   ##4 - order: 0.018, binder: 0.377
+   Final - Mean Order: 0.019, Mean Binder: 0.376
+
+#186:
+   ##0 - order: 0.005, binder: 0.292
+   ##1 - order: 0.005, binder: 0.369
+   ##2 - order: 0.005, binder: 0.293
+   ##3 - order: 0.005, binder: 0.234
+   ##4 - order: 0.005, binder: 0.304
+   Final - Mean Order: 0.005, Mean Binder: 0.298
+
+#187:
+   ##0 - order: 0.017, binder: 0.407
+   ##1 - order: 0.017, binder: 0.34
+   ##2 - order: 0.017, binder: 0.275
+   ##3 - order: 0.016, binder: 0.289
+   ##4 - order: 0.017, binder: 0.3
+   Final - Mean Order: 0.017, Mean Binder: 0.322
+
+#188:
+   ##0 - order: 0.005, binder: 0.377
+   ##1 - order: 0.005, binder: 0.293
+   ##2 - order: 0.005, binder: 0.312
+   ##3 - order: 0.005, binder: 0.329
+   ##4 - order: 0.006, binder: 0.405
+   Final - Mean Order: 0.005, Mean Binder: 0.343
+
+#189:
+   ##0 - order: 0.006, binder: 0.356
+   ##1 - order: 0.005, binder: 0.265
+   ##2 - order: 0.005, binder: 0.331
+   ##3 - order: 0.006, binder: 0.405
+   ##4 - order: 0.005, binder: 0.331
+   Final - Mean Order: 0.005, Mean Binder: 0.338
+
+#190:
+   ##0 - order: 0.016, binder: 0.325
+   ##1 - order: 0.016, binder: 0.36
+   ##2 - order: 0.016, binder: 0.329
+   ##3 - order: 0.018, binder: 0.424
+   ##4 - order: 0.017, binder: 0.385
+   Final - Mean Order: 0.017, Mean Binder: 0.364
+
+#191:
+   ##0 - order: 0.012, binder: 0.304
+   ##1 - order: 0.012, binder: 0.355
+   ##2 - order: 0.011, binder: 0.255
+   ##3 - order: 0.011, binder: 0.314
+   ##4 - order: 0.012, binder: 0.325
+   Final - Mean Order: 0.012, Mean Binder: 0.311
+
+#192:
+   ##0 - order: 0.121, binder: 0.39
+   ##1 - order: 0.112, binder: 0.461
+   ##2 - order: 0.12, binder: 0.362
+   ##3 - order: 0.119, binder: 0.416
+   ##4 - order: 0.126, binder: 0.406
+   Final - Mean Order: 0.12, Mean Binder: 0.407
+
+#193:
+   ##0 - order: 0.014, binder: 0.356
+   ##1 - order: 0.015, binder: 0.372
+   ##2 - order: 0.015, binder: 0.34
+   ##3 - order: 0.015, binder: 0.361
+   ##4 - order: 0.014, binder: 0.388
+   Final - Mean Order: 0.015, Mean Binder: 0.363
+
+#194:
+   ##0 - order: 0.768, binder: 0.655
+   ##1 - order: 0.79, binder: 0.66
+   ##2 - order: 0.727, binder: 0.636
+   ##3 - order: 0.691, binder: 0.601
+   ##4 - order: 0.778, binder: 0.659
+   Final - Mean Order: 0.751, Mean Binder: 0.642
+
+#195:
+   ##0 - order: 0.711, binder: 0.666
+   ##1 - order: 0.706, binder: 0.666
+   ##2 - order: 0.71, binder: 0.666
+   ##3 - order: 0.714, binder: 0.666
+   ##4 - order: 0.71, binder: 0.666
+   Final - Mean Order: 0.71, Mean Binder: 0.666
+
+#196:
+   ##0 - order: 0.954, binder: 0.667
+   ##1 - order: 0.951, binder: 0.667
+   ##2 - order: 0.953, binder: 0.667
+   ##3 - order: 0.952, binder: 0.667
+   ##4 - order: 0.954, binder: 0.667
+   Final - Mean Order: 0.953, Mean Binder: 0.667
+
+#197:
+   ##0 - order: 0.188, binder: 0.444
+   ##1 - order: 0.147, binder: 0.423
+   ##2 - order: 0.169, binder: 0.436
+   ##3 - order: 0.177, binder: 0.423
+   ##4 - order: 0.158, binder: 0.464
+   Final - Mean Order: 0.168, Mean Binder: 0.438
+
+#198:
+   ##0 - order: 0.008, binder: 0.348
+   ##1 - order: 0.008, binder: 0.361
+   ##2 - order: 0.008, binder: 0.382
+   ##3 - order: 0.008, binder: 0.352
+   ##4 - order: 0.008, binder: 0.34
+   Final - Mean Order: 0.008, Mean Binder: 0.357
