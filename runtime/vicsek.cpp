@@ -307,4 +307,4 @@ int main(int argc, char* argv[]) {
     cout << "\nSimulation finished. Total elapsed time: "<< (int) chrono::duration<double>(chrono::steady_clock::now() - start).count() << "s\n";
     outFile.close();
     return 0;
-}
+} 
