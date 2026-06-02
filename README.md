@@ -14,7 +14,9 @@ We produce a global coarse phase map in (η, ρ, v0) space with the help of the 
 
 ## Getting Started
 
-The code in this project uses a number of machine learning libraries including, but not limited to, Scikit-Learn, PyTorch, NumPy, Matplotlib, etc. "module load ml" will install all necessary dependencies on the TJHSST Supercomputer Cluster.
+The code in this project uses a number of machine learning libraries including, but not limited to, Scikit-Learn, PyTorch, NumPy, Matplotlib, etc. "module load ml" will install all necessary dependencies on the TJHSST Supercomputer Cluster. In order to effectively detect phase transitions in the
+Vicsek model, we aim to establish a clean global picture of where the different collective states exist. Using an optimized version of the Vicsek model, we build a labeled dataset with varying η, ρ, and v0 between instances, with each instance labeled with the dominant phase at the final state of the simulation. We then apply a neural network classifier to this dataset to produce a global phase map with phase transitions.
+
 
 ### Executing program
 
