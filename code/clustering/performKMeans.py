@@ -17,7 +17,7 @@ def metrics(X, labels, alg):
     print(f"Davies-Bouldin: {db:.3f} (lower better, min 0)")
     print(f"Calinski-Harabasz: {ch:.1f} (higher better)")
 for i in range(1, 6):
-    X = np.loadtxt(f'overall_metrics_trial{i}.txt', delimiter=',', usecols=range(3,6))
+    X = np.loadtxt(f'new_metrics/overall_metrics_trial{i}.txt', delimiter=',', usecols=range(3,6))
     df = pd.DataFrame(X)
     X = StandardScaler().fit_transform(X)
 
@@ -27,11 +27,11 @@ for i in range(1, 6):
     metrics(X, cluster_labels, f"KMeans Trial {i}")
     df[len(df.columns)] = cluster_labels
 
-    df.to_csv(f'labeled_metrics_trial{i}.csv', index=False)
+    df.to_csv(f'new_metrics/labeled_metrics_trial{i}.csv', index=False)
     
     customMap = ListedColormap(['purple', 'orange', 'blue'])
 
-    order, binder, susc, label = np.loadtxt(f'labeled_metrics_trial{i}.csv', delimiter=',', unpack=True)
+    order, binder, susc, label = np.loadtxt(f'new_metrics/labeled_metrics_trial{i}.csv', delimiter=',', unpack=True)
     fig = plt.figure(figsize=(6, 6))
     ax = fig.add_subplot(projection='3d')
     img = ax.scatter(order, binder, susc, c=label, cmap=customMap)
@@ -40,5 +40,5 @@ for i in range(1, 6):
     ax.set_zlabel('Susceptibility χ')
     ax.set_zlim(0, 0.04)
     plt.title(f"Classified Simulation Clusters - Trial {i}")
-    plt.savefig(f"KMeansMetricDistTrial{i}.png")
+    plt.savefig(f"new_metrics/KMeansMetricDistTrial{i}.png")
     plt.close()

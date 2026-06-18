@@ -1,0 +1,60 @@
+./runVicsek.sh: line 3: module: command not found
+g++: fatal error: cannot execute 'cc1plus': execvp: No such file or directory
+compilation terminated.
+Simulation #0 running... eta: 0.01360456, rho: 2.84068158, v0: 0.41819836
+Saved: slurm_temp_logs_0_2/final_state.npz (step 1000000)
+Simulation #1 running... eta: 0.02122788, rho: 0.32936357, v0: 0.26173375
+Saved: slurm_temp_logs_1_3/final_state.npz (step 1000000)
+Simulation #2 running... eta: 0.29349227, rho: 0.42314892, v0: 0.05430313
+Saved: slurm_temp_logs_2_3/final_state.npz (step 1000000)
+Simulation #3 running... eta: 0.16652856, rho: 2.12430966, v0: 0.47728870
+Saved: slurm_temp_logs_3_3/final_state.npz (step 1000000)
+Simulation #4 running... eta: 0.18503307, rho: 2.58901558, v0: 0.36239217
+Saved: slurm_temp_logs_4_3/final_state.npz (step 1000000)
+Simulation #5 running... eta: 0.29731359, rho: 1.98218037, v0: 0.13900853
+Saved: slurm_temp_logs_5_3/final_state.npz (step 1000000)
+Simulation #6 running... eta: 0.14846320, rho: 0.41169223, v0: 0.48953915
+Saved: slurm_temp_logs_6_3/final_state.npz (step 1000000)
+Simulation #7 running... eta: 0.15735533, rho: 2.14065718, v0: 0.29735087
+Saved: slurm_temp_logs_7_3/final_state.npz (step 1000000)
+Simulation #8 running... eta: 0.21386245, rho: 1.66336407, v0: 0.08874900
+Saved: slurm_temp_logs_8_2/final_state.npz (step 1000000)
+Simulation #9 running... eta: 0.03246979, rho: 0.28002504, v0: 0.32787177
+Saved: slurm_temp_logs_9_2/final_state.npz (step 1000000)
+Simulation #10 running... eta: 0.25209525, rho: 0.48036652, v0: 0.47132263
+Saved: slurm_temp_logs_10_2/final_state.npz (step 1000000)
+Simulation #11 running... eta: 0.28258037, rho: 1.16628866, v0: 0.49638348
+Saved: slurm_temp_logs_11_2/final_state.npz (step 1000000)
+Simulation #12 running... eta: 0.26458246, rho: 1.70586692, v0: 0.26983372
+Saved: slurm_temp_logs_12_2/final_state.npz (step 1000000)
+Simulation #13 running... eta: 0.25109927, rho: 1.38350194, v0: 0.11081172
+Saved: slurm_temp_logs_13_2/final_state.npz (step 1000000)
+Simulation #14 running... eta: 0.28736083, rho: 2.41568441, v0: 0.19251520
+Saved: slurm_temp_logs_14_2/final_state.npz (step 1000000)
+Simulation #15 running... eta: 0.22970451, rho: 1.68999257, v0: 0.12204497
+Saved: slurm_temp_logs_15_2/final_state.npz (step 1000000)
+Simulation #16 running... eta: 0.22331141, rho: 1.91751659, v0: 0.04834190
+Saved: slurm_temp_logs_16_2/final_state.npz (step 1000000)
+Simulation #17 running... eta: 0.24236172, rho: 0.14470074, v0: 0.29276467
+Saved: slurm_temp_logs_17_2/final_state.npz (step 1000000)
+Simulation #18 running... eta: 0.04811101, rho: 2.81073346, v0: 0.15288387
+Saved: slurm_temp_logs_18_2/final_state.npz (step 1000000)
+Simulation #19 running... eta: 0.14661362, rho: 0.83739064, v0: 0.06008030
+Saved: slurm_temp_logs_19_2/final_state.npz (step 1000000)
+Simulation #20 running... eta: 0.09000402, rho: 1.32441978, v0: 0.15944789
+Saved: slurm_temp_logs_20_2/final_state.npz (step 1000000)
+Simulation #21 running... eta: 0.03473685, rho: 0.61436657, v0: 0.20902160
+Saved: slurm_temp_logs_21_2/final_state.npz (step 1000000)
+Simulation #22 running... eta: 0.13922968, rho: 0.79472714, v0: 0.36619226
+Saved: slurm_temp_logs_22_2/final_state.npz (step 1000000)
+Simulation #23 running... eta: 0.10774957, rho: 2.87130857, v0: 0.16924846
+Saved: slurm_temp_logs_23_2/final_state.npz (step 1000000)
+Simulation #24 running... eta: 0.10066846, rho: 1.25305608, v0: 0.30329288
+Saved: slurm_temp_logs_24_2/final_state.npz (step 1000000)
+Simulation #25 running... eta: 0.20622470, rho: 2.79191464, v0: 0.22712270
+Saved: slurm_temp_logs_25_2/final_state.npz (step 1000000)
+Simulation #26 running... eta: 0.01934505, rho: 0.12318735, v0: 0.30716457
+Saved: slurm_temp_logs_26_1/final_state.npz (step 1000000)
+Simulation #27 running... eta: 0.19179580, rho: 2.50741364, v0: 0.37537283
+Saved: slurm_temp_logs_27_1/final_state.npz (step 1000000)
+Simulation #28 running... eta: 0.00011400, rho: 2.88624260, v0: 0.19782181

@@ -1,6 +1,8 @@
-for (( i=0; i<201; i++)); do
-    root="/csl/users/2026gbai/logs/slurm_temp_logs"
+for (( i=1; i<29; i++)); do
+    root="C:\Users\grace_0ddpimo\vicsek\code\617 logs\default\1\slurm_temp_logs"
+    echo "${root}_$i"
     if [ -d "${root}_$i" ]; then
+        echo "here"
         fileArr=()
         missingArr=()
         for j in "" "_1" "_2" "_3" "_4"; do
@@ -10,6 +12,7 @@ for (( i=0; i<201; i++)); do
                 missingArr+=($j)
             fi
         done
+
         if [[ ${#missingArr[@]} -gt 0 ]]; then
             echo "#${i}: Missing ${missingArr[*]}"
         fi
