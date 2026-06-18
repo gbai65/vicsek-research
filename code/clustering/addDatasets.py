@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 
-eta, rho, v0 = np.loadtxt('new_metrics/overall_metrics.txt', delimiter=',', usecols=range(0, 3), unpack=True)
+eta, rho, v0 = np.loadtxt('new_metrics/overall_metrics_trial1.txt', delimiter=',', usecols=range(0, 3), unpack=True)
 
 orders, binders, susceps, labels = [], [], [], []
 for i in range(1, 6):
